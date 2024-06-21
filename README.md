@@ -1,0 +1,2 @@
+# JSHyper
+for hyper game
